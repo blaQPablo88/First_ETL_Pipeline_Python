@@ -13,3 +13,10 @@ print(np.__version__)
 
 # Or install to current project 
 pip install numpy
+
+
+# Installing Pandas (https://pandas.pydata.org/getting_started.html)
+** Linux
+~ pip install pandas
+
+
