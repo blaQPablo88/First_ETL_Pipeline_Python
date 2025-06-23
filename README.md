@@ -58,3 +58,14 @@ crypto-regression/
 │   └── utils.py
 ├── main.py
 └── README.md
+
+## Acknowledgements
+
+This project is inspired by and based on [Yash Sahu's notebook on Kaggle](https://www.kaggle.com/code/yashsahu02/drw-crypto-market-prediction).  
+Credit to the original author for data exploration, modeling flow, and base structure.
+
+This refactor emphasizes **modularity, scalability, and maintainability** through GenAI principles.
+
+---
+
+Built by Kagiso ([@blaQPablo88](https://github.com/blaQPablo88)) using GenAI assistance.
